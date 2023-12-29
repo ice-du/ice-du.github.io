@@ -1,2 +1,2 @@
-# wenjinb.github.io
-This is the profile of Jinbo Wen: https://wenjinb.github.io/
+# hungerleader.github.io
+This is the profile of Bing Du: https://hungerleader.github.io/
