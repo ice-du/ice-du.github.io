@@ -4,18 +4,17 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-## Scholarships
-
-- June 2023：Guangdong University of Technology Excellent Thesis Innovation Award.
-<br>
-
 ## Competitions
 
-- Sep 2021: **<font color='red'>The First Prize</font>** of Guangdong Province in the 2021 National College Student Mathematical Modeling Competition  
-- Sep 2021: **<font color='red'>The Second Prize</font>** of Guangdong Province in the 2021 National College Student Mathematics Competition  
+- Sep 2021: **<font color='red'>The winning prize</font>** "China Foreign Transport Cup" the seventh National College Students Logistics Design Competition  
+
 <br>
 
 ## Honors
+
+- 2021: **<font color='red'>The outstanding paper</font>** for undergraduate thesis of Shandong University
+- 2018: **<font color='red'>The Advanced Individual</font>** of Student Association Activities in Shandong University
+- 2017: **<font color='red'>The Outstanding Communist Youth League Member</font>** of the School of Control Science and Engineering of Shandong University
 
 <br>
 
