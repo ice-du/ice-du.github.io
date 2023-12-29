@@ -5,7 +5,7 @@ layout: page
 
 # Hi, 😊
 
-<img src="./images/heng.jpg" class="floatpic" width="360" height="480">
+<img src="./images/heng_xiao.jpg" class="floatpic" width="360" height="480">
 
 <br>
 
