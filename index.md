@@ -5,30 +5,32 @@ layout: page
 
 # Hi, 😊
 
-<img src="./images/wenjinbo.jpg" class="floatpic" width="360" height="480">
+<img src="./images/dubing.jpg" class="floatpic" width="360" height="480">
 
 <br>
 
-I am Jinbo Wen (文锦柏), pursuing the M.S. degree with the College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics, China. My research is supervised by [Prof. Yang Zhang](http://faculty.nuaa.edu.cn/yang/zh_CN/index.htm) and [Prof. Jiawen Kang](https://teacher.gdut.edu.cn/kangjiawen/zh_CN/index.htm). Prior to this, I completed my B.Eng. degree from Guangdong University of Technology, China, in 2023, under the guidance of [Prof. Jiawen Kang](https://teacher.gdut.edu.cn/kangjiawen/zh_CN/index.htm). 
+I am Bing Du (杜冰), received the B.Eng. degree from Shandong University, Jinan, China, in 2021. [Prof. Shanzuo Lou]([http://faculty.nuaa.edu.cn/yang/zh_CN/index.htm](https://faculty.sdu.edu.cn/loushanzuo/zh_CN/index/523531/list/index.htm)) supervised my research on supply chain network design under uncertain environment. Now, I am looking for a graduate tutor.
 
 <br>
 
-Currently, I also work as a research assistant in the **MetaX Lab**, advised by [Prof. Jiawen Kang](https://teacher.gdut.edu.cn/kangjiawen/zh_CN/index.htm). 
+Currently, I am looking for a graduate tutor. 
 
 <br>
 
-My research interests are primarily **AI-generated content**, **Metaverse**, and **Wireless communication**. If you are also interested in these research directions and would like to have a chat, please feel free to email me (jinbo1608@163.com) or add my WeChat (leslie_13682411608)! I am always happy to learn from brilliant minds ^_^!
+My research interests are primarily **Deep Learning**, **Medical Image Analysis**, and **Generative AI**. If you are also interested in these research directions and would like to chat, please feel free to email me (dubing22@163.com) or add my WeChat (DBBLLGLMSLTLGTM)! I am always happy to learn from brilliant minds ^_^!
 <br>
 
 ## News and Updates
 
-- **Jun 2023：** Awarded Outstanding Graduate of Guangdong University of Technology.
+- **Dec 2023：** Awarded Outstanding Graduate of Guangdong University of Technology.
 - **Sep 2022：** Obtained postgraduate promotion and exemption status and successfully entered Nanjing University of Aeronautics and Astronautics.
 - **Sep 2021：** Joined MetaX Lab of Guangdong University of Technology, advised by [Prof. Jiawen Kang](https://teacher.gdut.edu.cn/kangjiawen/zh_CN/index.htm).
 
 <br>
 
-## Academic Background
+## Education and Work Background
 
-- **Sep 2023 - Now:** Nanjing University of Aeronautics and Astronautics, China
-- **Sep 2019 - June 2023:** Guangdong University of Technology, China
+- **Jul 2022 - Mar 2023:** China National Heavy Duty Truck Group Co., Ltd, Jinan, China      Control Strategy Engineer
+- **Sep 2021 - Jan 2022:** Shandong University, Jinan, China      Administrative Assistant
+- **Sep 2017 - June 2021:** Shandong University, Jinan, China      Undergraduate
+
