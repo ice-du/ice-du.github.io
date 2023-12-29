@@ -34,3 +34,10 @@ My research interests are primarily **Deep Learning**, **Medical Image Analysis*
 - **Sep 2021 - Jan 2022:** Shandong University, Jinan, China      Administrative Assistant
 - **Sep 2017 - June 2021:** Shandong University, Jinan, China      Undergraduate
 
+## Dissertation
+- **杜冰**.不确定环境下供应链网络设计研究[D].2021
+
+## Patents
+
+- **杜冰**. 一种利用余热烘干生物质燃料的设备[P].中国：CN201821906186.7，2019-07-26. 新型实用专利(已授权)
+
